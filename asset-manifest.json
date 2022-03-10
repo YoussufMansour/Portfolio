@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.1544c401.css",
+    "main.js": "/Portfolio/static/js/main.5edbed93.js",
+    "static/media/web6.gif": "/Portfolio/static/media/web6.367ab409f067229b4351.gif",
+    "static/media/K1.png": "/Portfolio/static/media/K1.b805bc6c7daddec630aa.png",
+    "static/media/phone.gif": "/Portfolio/static/media/phone.82b6f85ea29053ec6718.gif",
+    "static/media/Dogcare.png": "/Portfolio/static/media/Dogcare.7e6c4cbcb4776233de4c.png",
+    "static/media/arrow.gif": "/Portfolio/static/media/arrow.39e7197c999ccd19286a.gif",
+    "static/media/email.gif": "/Portfolio/static/media/email.fafe6b00a5f8ceb64252.gif",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.8a93f3b4d3d01342b3db.png",
+    "static/media/css.png": "/Portfolio/static/media/css.50215e1971e8ba502716.png",
+    "static/media/K2.png": "/Portfolio/static/media/K2.d0b26919530ee0e9feff.png",
+    "static/media/cv.pdf": "/Portfolio/static/media/cv.678d61747b90648de1a7.pdf",
+    "static/media/react.png": "/Portfolio/static/media/react.4526cfee2f4180584a36.png",
+    "static/media/K3.png": "/Portfolio/static/media/K3.2f5143597faa95911dc0.png",
+    "static/media/logo1.png": "/Portfolio/static/media/logo1.07701182dfaf2bb7b37f.png",
+    "static/media/html.png": "/Portfolio/static/media/html.12504260826c24eb1f83.png",
+    "static/media/node.png": "/Portfolio/static/media/node.9b9158b8c1579cb5381a.png",
+    "static/media/mysql.png": "/Portfolio/static/media/mysql.17ec01314179e9a8ab58.png",
+    "index.html": "/Portfolio/index.html",
+    "main.1544c401.css.map": "/Portfolio/static/css/main.1544c401.css.map",
+    "main.5edbed93.js.map": "/Portfolio/static/js/main.5edbed93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1544c401.css",
+    "static/js/main.5edbed93.js"
+  ]
+}
